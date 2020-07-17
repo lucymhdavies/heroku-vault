@@ -2,6 +2,8 @@
 
 Run Vault in Heroku, with state stored in S3, and auto-unseal with AWS KMS
 
+NOT PRODUCTION READY
+
 ## Dependencies
 
 (TODO: Terraform config for these)
