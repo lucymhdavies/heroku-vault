@@ -1,4 +1,4 @@
-FROM vault:1.5.0-rc
+FROM vault:1.5.4
 
 ADD entrypoint.sh /entrypoint.sh
 
